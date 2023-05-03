@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mohd faiz khan</h1>
+<h1 align="center">Hi 👋, I'm Mohd Faiz Khan</h1>
 <h3 align="center"></h3>
 
 - 🌱 I’m currently learning **web development**
