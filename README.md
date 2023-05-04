@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohd Faiz Khan</h1>
 <h3 align="center">A Web Developer</h3>
 
-- 🌱 I’m currently learning **web development**
+- 🌱 I’m currently learning **Bootstrap**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap**
+- 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **mohdfaizk144@gmail.com**
 
