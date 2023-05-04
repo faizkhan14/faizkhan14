@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm mohd faiz khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohd Faiz Khan</h1>
+<h3 align="center">A Web Developer</h3>
 
 - 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **html,css,javascript,bootstrap**
+- 💬 Ask me about **HTML,CSS,JavaScript,Bootstrap**
 
 - 📫 How to reach me **mohdfaizk144@gmail.com**
 
